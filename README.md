@@ -11,14 +11,18 @@ Basic Programming for Data Science add Data Visualization : เบญญาภ�
 
 # Project
 
-* ยังไม่แก้ไข
-    * [Dash Board](https://datastudio.google.com/reporting/a17e860f-a275-4232-9ae6-55082ee9cdfc/page/Y7ooC)
-
 
     * [Power Point](https://github.com/Benza1611/data_viz_2022/blob/main/FINAL%20PROJECT.pdf)
 
 
     * [Project](https://github.com/Benza1611/data_viz_2022/blob/main/Project.ipynb)
+    
+    
+* ยังไม่แก้ไข
+
+
+    * [Dash Board](https://datastudio.google.com/reporting/a17e860f-a275-4232-9ae6-55082ee9cdfc/page/Y7ooC)
+
 
 * แก้ไขแล้ว 
 
