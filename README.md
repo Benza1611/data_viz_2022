@@ -25,4 +25,4 @@ Basic Programming for Data Science add Data Visualization : เบญญาภ�
 
 * แก้ไขแล้ว 
 
-    *   ยังไม่อัพ
+    * [Dash Board](https://datastudio.google.com/reporting/7bb276d8-72df-49a9-9fd2-e491f1214d71/page/qW9pC/edit?fbclid=IwAR0Y2e9H__VFF1OLxSbHItxwfRDL-YcprInGG5omeaM30je_W2Gn4zyf514)
