@@ -11,11 +11,10 @@ Basic Programming for Data Science add Data Visualization : เบญญาภ�
 
 # Project
 
+   [Power Point](https://github.com/Benza1611/data_viz_2022/blob/main/FINAL%20PROJECT.pdf)
 
-    * [Power Point](https://github.com/Benza1611/data_viz_2022/blob/main/FINAL%20PROJECT.pdf)
-
-
-    * [Project](https://github.com/Benza1611/data_viz_2022/blob/main/Project.ipynb)
+   
+   [Project](https://github.com/Benza1611/data_viz_2022/blob/main/Project.ipynb)
     
     
 * ยังไม่แก้ไข
